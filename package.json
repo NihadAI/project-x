@@ -1,0 +1,30 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Nihad Alizade fs-1",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihadAI/project-x.git"
+  },
+  "author": "Nihad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihadAI/project-x/issues"
+  },
+  "homepage": "https://github.com/NihadAI/project-x#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "glob-parent": "^6.0.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  }
+}
